@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Hayley30@gmail.com",
+      "password": "7F2EAFyTqHbR4Kt",
+      "username": "Daphnee_Lesch41"
+    },
+    {
+      "id": 2,
+      "email": "Jacques.Keeling77@gmail.com",
+      "password": "membRtsuoo1tYIH",
+      "username": "Kacie31"
+    },
+    {
+      "id": 3,
+      "email": "Bryce.Sawayn@hotmail.com",
+      "password": "h_hKk6KMwvRax5w",
+      "username": "Dimitri.Kulas"
+    },
+    {
+      "id": 4,
+      "email": "Kenneth_Morar26@gmail.com",
+      "password": "c6SHbOHTiSQlzXt",
+      "username": "Stewart.Conn"
+    },
+    {
+      "id": 5,
+      "email": "Simeon.Hodkiewicz@yahoo.com",
+      "password": "yCBWhetbhBBiBvh",
+      "username": "Hilbert66"
+    }
+  ]
+}
